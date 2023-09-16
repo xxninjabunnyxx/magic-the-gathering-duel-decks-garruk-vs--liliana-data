@@ -1,0 +1,18 @@
+---
+object: set
+id: 15f41db6-1810-475b-bf2c-24a488050a37
+code: ddd
+mtgo_code: ddd
+arena_code: ddd
+tcgplayer_id: 34
+name: 'Duel Decks: Garruk vs. Liliana'
+uri: https://api.scryfall.com/sets/15f41db6-1810-475b-bf2c-24a488050a37
+scryfall_uri: https://scryfall.com/sets/ddd
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Addd&unique=prints
+released_at: '2009-10-30'
+set_type: duel_deck
+card_count: 63
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddd.svg?1694404800
